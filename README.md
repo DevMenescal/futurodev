@@ -1,2 +1,2 @@
-# Exercicio2SegundaSemana
+# ExercicioSegundaSemana
  Exercícios da Segunda Semana
