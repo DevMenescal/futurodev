@@ -19,7 +19,7 @@ public class Exercicio4 {
         X = scanner.nextInt();
         System.out.println("Digite o valor de Y: ");
         Y = scanner.nextInt();
-
+        // Inclusão de uma variável temporária.
         TEMP = X;
         X = Y;
         Y = TEMP;
